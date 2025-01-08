@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+body {
+  text-align: center;
+  color: #17293a;
+}
+
+img {
+  display: none;
+}
+
+#ascii {
+  font-family: monospace;
+  font-size: 11px;
+  line-height: 70%;
+  display: block;
+  width: 100%;
+}
+
+#container {
+  display: inline-block;
+  overflow: hidden;
+}
